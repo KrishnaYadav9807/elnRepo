@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root>
+	<f:table xmlns:f="www.ksdsr.com">
+		<name></name>
+		<manufacturedby>trivenialmeera</manufacturedby>
+		<date>08-03-2018</date>
+	</f:table>
+	<h:table xmlns:h="www.google.com">
+		<th>HTMLTABLE</th>
+		<tr>
+			<td>fname</td>
+			<td>mname</td>
+			<td>lname</td>
+		</tr>
+	</h:table>
+	
+	<contentes xmlns:f="www.ksdsr.com" xmlns:h="www.google.com">
+		<f:table>
+			<name></name>
+			<manufacturedby>trivenialmeera</manufacturedby>
+			<date>08-03-2018</date>
+		</f:table>
+		<h:table>
+			<th>HTMLTABLE</th>
+			<tr>
+				<td>fname</td>
+				<td>mname</td>
+				<td>lname</td>
+			</tr>
+		</h:table>
+	</contentes>
+	
+</root>
